@@ -5,7 +5,7 @@
 ## Some of my favorite things to work on are:
   - Machine learning projects 
   - Data anaylytics 
-  - And whatever else interests me
+  - Whatever else interests me
 
 ## Some of the tools that I use:
   - Python 
