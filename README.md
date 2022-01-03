@@ -5,6 +5,7 @@
 ## Some of my favorite things to work on are:
   - Machine learning projects 
   - Data analytics
+  - Tableau dashboards
   - Whatever else interests me
 
 ## Some of the tools that I use:
