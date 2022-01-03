@@ -15,7 +15,7 @@
   - R
 
 ## Here's my current favorite project 
-- [MNIST Numeral Classification](https://github.com/jrenning/MNISTdataset_classification)
+- [Facial Expression Recognition](https://github.com/jrenning/Facial_Expression_Recognition)
 
 
 
