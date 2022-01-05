@@ -6,6 +6,7 @@
   - Machine learning projects 
   - Data analytics
   - Tableau dashboards
+  - Web APIs
   - Whatever else interests me
 
 ## Some of the tools that I use:
