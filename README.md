@@ -16,7 +16,7 @@
   - R
 
 ## Here's my current favorite project 
-- [Facial Expression Recognition](https://github.com/jrenning/Facial_Expression_Recognition)
+- [Iowa University Enrollment Analysis](https://github.com/jrenning/Iowa_University_Enrollment_Analysis)
 
 
 
