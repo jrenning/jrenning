@@ -5,18 +5,20 @@
 ## Some of my favorite things to work on are:
   - Machine learning projects 
   - Data analytics
-  - Tableau dashboards
+  - Websites
+  - Desktop Apps
   - Web APIs
   - Whatever else interests me
 
 ## Some of the tools that I use:
   - Python 
   - SQL
-  - Tableau
+  - Javascript
+  - Rust
   - R
 
 ## Here's my current favorite project 
-- [Iowa University Enrollment Analysis](https://github.com/jrenning/Iowa_University_Enrollment_Analysis)
+- [Canvas API Messages](https://github.com/jrenning/Canvas_API)
 
 
 
