@@ -18,7 +18,7 @@
   - R
 
 ## Here's my current favorite project 
-- [Canvas API Messages](https://github.com/jrenning/Canvas_API)
+- [ChemE Calculations](https://github.com/jrenning/ChemE_Calculations)
 
 <!-- Guy who Codes
 -------------
